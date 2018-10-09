@@ -3,7 +3,8 @@
 // Program written entirely by Przemyslaw Poluszczyk
 // For the purposes of self-developing and learning.
 // Feel free to use it if you need it.
-// Why object? to make it a little bit more complex.
+// Why object oriented programming? to make it a little bit more complex.
+
 #include "stdafx.h"
 #include <iostream>
 #include <conio.h>
