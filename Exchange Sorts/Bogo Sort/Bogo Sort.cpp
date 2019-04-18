@@ -5,7 +5,6 @@
 // Feel free to use it if you need it.
 // Why object oriented programming? to make it a little bit more complex.
 
-#include "stdafx.h"
 #include <iostream>
 #include <conio.h>
 #include <fstream>
